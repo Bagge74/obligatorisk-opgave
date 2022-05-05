@@ -1,0 +1,12 @@
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\bin\Debug\net5.0\Opgave 1.deps.json
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\bin\Debug\net5.0\Opgave 1.dll
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\bin\Debug\net5.0\ref\Opgave 1.dll
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\bin\Debug\net5.0\Opgave 1.pdb
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\obj\Debug\net5.0\Opgave 1.csproj.AssemblyReference.cache
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\obj\Debug\net5.0\Opgave 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\obj\Debug\net5.0\Opgave 1.AssemblyInfoInputs.cache
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\obj\Debug\net5.0\Opgave 1.AssemblyInfo.cs
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\obj\Debug\net5.0\Opgave 1.csproj.CoreCompileInputs.cache
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\obj\Debug\net5.0\Opgave 1.dll
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\obj\Debug\net5.0\ref\Opgave 1.dll
+C:\Users\rbagg\OneDrive\Dokumenter\DAT 2021\3. semester\obligatorisk opgave\1\Opgave 1\obj\Debug\net5.0\Opgave 1.pdb

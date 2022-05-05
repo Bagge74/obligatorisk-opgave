@@ -1,0 +1,19 @@
+
+4.
+
+a. 	http står for Hyper Text Transfer Protocol
+
+	HTTP protokollen bruges af alle der bruger internettet til at formidle kontakten mellem klient  
+	og en server. Der udveksles for eksempel filer af typen html og CSS for at få adgang til hjemmesider.
+
+	HTTP gør brug af en række metoder: Get, post og delete er de mest almindelige metoder.
+
+b.	Request Header er det som identificerer din unikke søgning på den enkelte hjemmeside og som gør at den
+	ved hvilke oplysninger den skal sende tilbage.
+	Response Header 
+
+c. 	REST bruger http til at få adgang til og bruge data. Denne data kan så efterfølgende bruges til metoder 
+	som for eksempel Get, Update, Delete og post. 
+
+
+

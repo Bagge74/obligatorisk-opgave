@@ -1,0 +1,14 @@
+h1{
+    text-decoration-style: center;
+
+}
+button{
+    
+    
+    color: rgb(244, 244, 248);
+    background-color: rgb(110, 110, 226);
+}
+*{
+    padding: 3px;
+    margin: 0px;
+}

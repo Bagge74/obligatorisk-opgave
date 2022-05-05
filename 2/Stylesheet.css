@@ -9,11 +9,11 @@ nav{
     align-items: center;
     min-height: 10vh;
     font-family: sans-serif;
-    background-color: #8a5b5b;
+    background-color: #3f4a3c; /*armygreen*/
 
 }
 .logo{
-    color: rgb(230, 228, 228);
+    color: azure; /*white*/
     text-transform: uppercase;
     letter-spacing: 5px;
     font-size: 20px;
@@ -30,7 +30,7 @@ div{
     width: 40%;
 }
 .nav-links a{
-    color: rgb(230, 228, 228);
+    color: azure;
     text-decoration: none;
     letter-spacing: 3px;
     font-weight: bold;
@@ -45,7 +45,7 @@ div{
 .burger div{
     width: 25px;
     height: 2px;
-    background-color: rgb(230, 228, 228);
+    background-color: azure;
     margin: 5px;
 }
 h4{
@@ -70,9 +70,9 @@ footer {
     right: 0;
     height: auto;
     width: 100vw;
-    background: #8a5b5b;
+    background: #3f4a3c;
     font-family: sans-serif;
-    color: rgb(230, 228, 228);
+    color: azure;
     align-items: center;
     display: flex;
     justify-content: space-around;
